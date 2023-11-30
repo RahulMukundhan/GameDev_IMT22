@@ -3,6 +3,10 @@ Track 2: Quest for the lost artifact
 
 Motivation: Retrieve the "Artifact" in a pyramid, lost in the desert
 
+Assests:
+      Due to the heavy size of the files, we use the following link for the assests:
+      [drive link](https://drive.google.com/drive/folders/1hcqg6iFuejfCsBb0LfvoeQwhTsU00k2l)
+
 Codes:
       Player movement: It allows the player to move (WASD) and space for jump, along with mouse for camera control
       
