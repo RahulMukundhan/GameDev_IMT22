@@ -17,7 +17,10 @@ Packages:
         TextMeshPro-> TextMeshPro (also known as TMP) uses Advanced Text Rendering techniques along with a set of custom shaders,delivering substantial visual quality improvements while giving users incredible flexibility when it comes to text styling and texturing.
                 (https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html)
 
-Run and Install:<tbd later>
+Run and Install:
+             open "Asset creation.exe" ,
+              
+              Click host(server+client) and the game starts
 
 
 Details:
