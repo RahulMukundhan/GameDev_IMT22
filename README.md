@@ -6,6 +6,7 @@ Motivation: Retrieve the "Artifact" in a pyramid, lost in the desert
 Assests:
       Due to the heavy size of the files, we use the following link for the assests:
       [drive link](https://drive.google.com/drive/folders/1hcqg6iFuejfCsBb0LfvoeQwhTsU00k2l)
+      [drive_link_2](https://drive.google.com/file/d/1Ruoq7pmMNMtVjPunvPqUTVv3Z9di2U7-/view?usp=drive_link)
 
 Codes:
       Player movement: It allows the player to move (WASD) and space for jump, along with mouse for camera control
